@@ -1,7 +1,7 @@
 [![Sazune](https://telegra.ph/file/a36cb23c3679ed2d0127e.jpg)](https://t.me/request_ayush)
 
-# Forked Version of [
-Torrent-To-Gdrive-Mirrorbot](https://github.com/ayushteke/torrent-to-gdrive-mirrorbot)
+# Forked Version of 
+[Torrent-To-Gdrive-Mirrorbot](https://github.com/ayushteke/torrent-to-gdrive-mirrorbot)
 
 ## all the credit goes to [SlamDevs](https://github.com/SlamDevs) & [AYUSH](https://github.com/ayushteke)
 
