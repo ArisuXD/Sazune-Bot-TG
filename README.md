@@ -3,7 +3,7 @@
 # Forked Version of 
 [Torrent-To-Gdrive-Mirrorbot](https://github.com/ayushteke/torrent-to-gdrive-mirrorbot)
 
-## all the credit goes to [SlamDevs](https://github.com/SlamDevs) & [AYUSH](https://github.com/ayushteke)
+## All the credit goes to [SlamDevs](https://github.com/SlamDevs) & [AYUSH](https://github.com/ayushteke)
 
 # Slam Mirror Bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
