@@ -1,15 +1,9 @@
-[![Slam](https://telegra.ph/file/019996f816db9ed576cff.jpg)](https://t.me/request_ayush)
+[![Sazune](https://telegra.ph/file/a36cb23c3679ed2d0127e.jpg)](https://t.me/request_ayush)
 
-owner of this repo :- [AYUSH](https://github.com/ayushteke)
+# Forked Version of [
+Torrent-To-Gdrive-Mirrorbot](https://github.com/ayushteke/torrent-to-gdrive-mirrorbot)
 
-
-# all the commits are made from [slam-mirrorbot](https://github.com/SlamDevs/slam-mirrorbot)
-
-## all the credit goes to [slamDevs](https://github.com/SlamDevs)
-
-
-
-contact me :- [AYUSH](https://t.me/request_ayush)
+## all the credit goes to [SlamDevs](https://github.com/SlamDevs) & [AYUSH](https://github.com/ayushteke)
 
 # Slam Mirror Bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
